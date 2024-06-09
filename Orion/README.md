@@ -1,27 +1,31 @@
-# Tolian Moons (LLL)
+# Tolian Moons / SfDesat Moons (LLL)
 
+
+moon created by [SfDesat](https://thunderstore.io/c/lethal-company/p/sfDesat/)
+
+I have optimized this moon and fixed all known bugs
 
 1 new game moon 
 
-# New Moon: Azure
+# New Moon: Orion
 
->DESIGNATION: 39-Azure
+>DESIGNATION: 43-Orion
 
->RISK LEVEL: A
+>RISK LEVEL: S+
 
->POPULATION: None, ancient ruins.
+>POPULATION: Abandoned.
 
->Conditions: Azure resembles an ancient Aztec civilization, with weathered temples and intricate carvings.
+>CONDITIONS: Dry, desolate. Very dangerous.
 
->Fauna: Exotic wildlife roams among the ruins.
+>FAUNA: High amount of dangerous predators. Not suitable for plant life.
 
->HISTORY: Azure holds the secrets of a lost civilization.
-
->ROUTING COST: 0
+>ROUTING COST: 750
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/Azure/main/Screenshot/1.png)
+![Screenshot_1](https://raw.githubusercontent.com/sfDesat/Orion/main/Screenshots/Screenshot%202.png "Screenshot%202")
 
+## Special thanks
+- Special thanks to **SfDesat** for creating the moon
 
 #
 ### My discord - tolian
